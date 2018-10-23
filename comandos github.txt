@@ -1,0 +1,3 @@
+git config --global user.name EmanuelleAns
+
+git config --global user.email emanuellebautista@dit.upm.es
